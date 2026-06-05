@@ -193,7 +193,15 @@ dotnet run
 
 ---
 
+##Postman Testing
 
+All APIs were tested using Postman.
+
+##Testing Video
+
+Video Link:
+
+https://drive.google.com/drive/folders/1H8Zjy8ceYP18g23FeJKcBa11hdZnrGpj?usp=drive_link
 
 
 
