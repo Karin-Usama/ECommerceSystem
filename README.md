@@ -205,8 +205,4 @@ https://drive.google.com/drive/folders/1H8Zjy8ceYP18g23FeJKcBa11hdZnrGpj?usp=dri
 
 
 
----
 
-## Author
-
-Karin Usama
